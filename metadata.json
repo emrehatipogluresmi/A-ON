@@ -1,0 +1,7 @@
+{
+  "name": "AION Ecosystem",
+  "description": "A premium AI ecosystem featuring Vision (Visual Intelligence) and AION (Cognitive Intelligence) with a seamless Apple-inspired minimalist aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
